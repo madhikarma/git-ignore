@@ -5,6 +5,7 @@ Git ignore settings for projects including settings for Xcode and OS X files.
  
 Add the file to your existing git based project then stage, commit and push to your repo.
 
+- `mv .gitignore MyProject/.gitignore`
 - `git add -A`
 - `git commit -m "Added settings for files git should ignore"`
 - `git push`
